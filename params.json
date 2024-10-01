@@ -245,7 +245,6 @@
     "dkuProperties": []
   },
   "name": "Git for Projects for Vladimir Silva",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "showInitials": false,
   "metrics": {
@@ -317,7 +316,8 @@
     "academy",
     "tutorial",
     "downloads",
-    "section:Advanced Designer"
+    "section:Advanced Designer",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
